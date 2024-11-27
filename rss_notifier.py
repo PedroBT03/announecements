@@ -62,7 +62,7 @@ def check_feed(feed_url, course_name):
         time_difference = datetime.now(timezone.utc) - pub_date
         
         # Skip if the entry was published more than 5 hours ago
-        if time_difference > timedelta(hours=25):
+        if time_difference > timedelta(hours=5):
             continue
         # Skip if already seen
         if post_id in seen_posts:
