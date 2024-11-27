@@ -1,0 +1,2 @@
+# announecements
+receives ist announcements
