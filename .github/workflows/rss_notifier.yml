@@ -34,7 +34,7 @@ jobs:
         run: python rss_notifier.py
 
       - name: Upload seen posts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: seen_posts
           path: seen_posts.txt
