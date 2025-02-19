@@ -13,12 +13,12 @@ RSS_FEED_URLS = {
     "https://fenix.tecnico.ulisboa.pt/disciplinas/CSF211/2024-2025/1-semestre/rss/announcement": "CSF",
     "https://fenix.tecnico.ulisboa.pt/disciplinas/PADI11/2024-2025/1-semestre/rss/announcement": "PADI",
     "https://fenix.tecnico.ulisboa.pt/disciplinas/CCEIC11/2024-2025/1-semestre/rss/announcement": "CCEIC",
-    "https://fenix.tecnico.ulisboa.pt/disciplinas/AASMA36/2024-2025/2-semestre/sumarios/announcement": "AASMA",
-    "https://fenix.tecnico.ulisboa.pt/disciplinas/CCEIC236/2024-2025/2-semestre/sumarios/announcement": "CCEIC-II",
-    "https://fenix.tecnico.ulisboa.pt/disciplinas/CMov236/2024-2025/2-semestre/sumarios/announcement": "CMU",
-    "https://fenix.tecnico.ulisboa.pt/disciplinas/CPD236/2024-2025/2-semestre/sumarios/announcement": "CPD",
-    "https://fenix.tecnico.ulisboa.pt/disciplinas/OGFI36/2024-2025/2-semestre/sumarios/announcement": "SGSI",
-    "https://fenix.tecnico.ulisboa.pt/disciplinas/SDTF236/2024-2025/2-semestre/sumarios/announcement": "SEC"
+    "https://fenix.tecnico.ulisboa.pt/disciplinas/AASMA36/2024-2025/2-semestre/rss/announcement": "AASMA",
+    "https://fenix.tecnico.ulisboa.pt/disciplinas/CCEIC236/2024-2025/2-semestre/rss/announcement": "CCEIC-II",
+    "https://fenix.tecnico.ulisboa.pt/disciplinas/CMov236/2024-2025/2-semestre/rss/announcement": "CMU",
+    "https://fenix.tecnico.ulisboa.pt/disciplinas/CPD236/2024-2025/2-semestre/rss/announcement": "CPD",
+    "https://fenix.tecnico.ulisboa.pt/disciplinas/OGFI36/2024-2025/2-semestre/rss/announcement": "SGSI",
+    "https://fenix.tecnico.ulisboa.pt/disciplinas/SDTF236/2024-2025/2-semestre/rss/announcement": "SEC"
 }
 
 # Email settings
