@@ -32,7 +32,7 @@ jobs:
         run: python rss_notifier.py
 
       - name: Upload state file
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: seen-posts
           path: seen_posts.txt
